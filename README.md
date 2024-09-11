@@ -1,2 +1,6 @@
-# SCT_WD_3
-This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows two players to compete by taking turns to place their marks (X and O) on a 3x3 grid. 
+# Tic-tac-toe
+Create a game with html, css and javascript.
+
+You can play it here: https://codepen.io/trohalska/full/vYGGexg
+
+![view game](https://i.postimg.cc/xCMgbgjm/tictactoe.png?raw=true "Title")
